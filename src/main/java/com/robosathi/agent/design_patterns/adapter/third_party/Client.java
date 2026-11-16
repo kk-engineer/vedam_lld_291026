@@ -1,8 +1,7 @@
-package com.robosathi.agent.design_patterns.adapter;
+package com.robosathi.agent.design_patterns.adapter.third_party;
 
 public class Client {
     public static void main(String[] args) {
-
         demoAdapter();
     }
 
